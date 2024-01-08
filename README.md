@@ -19,7 +19,6 @@ Responsive Design: The website is designed to be accessible and visually appeali
 Getting Started
 To run the website locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/mba-chai-waala.git
 Navigate to the project directory: cd mba-chai-waala
 Open index.html in your preferred web browser.
 Contributing
